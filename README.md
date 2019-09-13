@@ -1,2 +1,3 @@
-# patogc_1910-live.com.mx
-Hola
+#Hacer un tipo hola mundo
+print('hola mundo')
+
